@@ -1,13 +1,11 @@
-# MY-PROJECT 
-
 # My_Project
 
 ## Project setup
 
-cd backend
+cd frontend
 
 npm install
 
 
 ## Start Development Server
-npm run start
+npm run serve
